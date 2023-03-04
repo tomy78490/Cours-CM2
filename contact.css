@@ -1,0 +1,9 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titre{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 500px;
+}
